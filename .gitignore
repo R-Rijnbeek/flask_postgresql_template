@@ -130,4 +130,3 @@ dmypy.json
 
 # Custom modification
 Logfiles/
-app/dev_config.cfg
